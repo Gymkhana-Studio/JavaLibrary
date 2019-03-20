@@ -1,36 +1,19 @@
 {
-	"Settings" : [
+	"JavaLibrary" : [
 		{
 			"pro" : "false",
 			"close" : "false",
 			"network" : "false"
-		}
-	],
-	
-	"Version" : [
-		{
 			"Version" : 2.5,
 			"URL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Apk/JavaLibrary.apk",
 			"Info" : "info"
-		}
-	],
-	"AdMob" : [
-		{
 			"admob" : "on"
-		}
-	],
-	"UpdateCode" : [
-		{
 			"List" : "1.0",
 			"Library" : "1.0",
 			"Aide" : "1.0"
-		}
-	],
-	"URL" : [
-		{
-			"List" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/List.db",
-			"Library" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Libs.db",
-			"Aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Aide.db"
+			"ListURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/List.db",
+			"LibraryURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Libs.db",
+			"AideURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Aide.db"
 		}
 	]
 }
