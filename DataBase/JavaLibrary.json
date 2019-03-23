@@ -1,5 +1,5 @@
 {
-	"JavaLibrary" : [
+	"JavaLibrary" : 
 		{
 			"pro" : "false",
 			"close" : "false",
@@ -15,5 +15,4 @@
 			"LibraryURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Libs.db",
 			"AideURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Aide.db"
 		}
-	]
 }
