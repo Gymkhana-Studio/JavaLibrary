@@ -10,7 +10,7 @@
 			"admob" : "on",
 			"List" : "1.0",
 			"Library" : "1.0",
-			"Aide" : "1.0"
+			"Aide" : "1.0",
 			"ListURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/List.db",
 			"LibraryURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Libs.db",
 			"AideURL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Aide.db"
