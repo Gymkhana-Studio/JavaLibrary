@@ -3,11 +3,11 @@
 		{
 			"pro" : "false",
 			"close" : "false",
-			"network" : "false"
+			"network" : "false",
 			"Version" : 2.5,
 			"URL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Apk/JavaLibrary.apk",
-			"Info" : "info"
-			"admob" : "on"
+			"Info" : "info",
+			"admob" : "on",
 			"List" : "1.0",
 			"Library" : "1.0",
 			"Aide" : "1.0"
