@@ -1,7 +1,7 @@
 {
 	"JavaLibrary" : 
 		{
-			"pro" : "true",
+			"pro" : "false",
 			"close" : "false",
 			"network" : "false",
 			"Version" : "2.6",
