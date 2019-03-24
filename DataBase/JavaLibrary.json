@@ -1,9 +1,9 @@
 {
 	"JavaLibrary" : 
 		{
-			"pro" : "false",
+			"pro" : "true",
 			"close" : "false",
-			"network" : "true",
+			"network" : "false",
 			"Version" : "2.6",
 			"URL" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Apk/JavaLibrary.apk",
 			"Info" : "ChangeLog:\n * Bugs Fixed\n",
