@@ -22,7 +22,7 @@
 		"enable_0" : "on",
 		"enable_1" : "on",
 		"enable_2" : "on",
-		"enable_3" : "on",
+		"enable_3" : "off",
 		"connection" : "off",
 		"msg" : "Welcome to JavaLibrary"
 	}
