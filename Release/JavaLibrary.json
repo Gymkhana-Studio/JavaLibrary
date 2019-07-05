@@ -1,0 +1,30 @@
+{
+   "JavaLibrary": [
+   {
+      "pkg":"com.java.library",
+      "new":"1.3",
+      "info":"\n## What New:\n * Bugs Fixed",
+      "link":"https://raw.githubusercontent.com/GabrielGymkhanaCGN/userrecon/master/java.apk"
+   },
+   {
+		"code" : "1.0",
+		"link_code" : "https://",
+		"library" : "1.0",
+		"link_library" : "https://",
+		"aide" : "1.0",
+		"link_aide" : "https://",
+		"studio" : "1.0",
+		"link_studio" : "https://"
+	},
+	{
+		"admob" : "on",
+		"offline" : "off",
+		"enable_0" : "on",
+		"enable_1" : "on",
+		"enable_2" : "on",
+		"enable_3" : "on",
+		"connection" : "off",
+		"msg" : "Hello"
+	}
+   ]
+}
