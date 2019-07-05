@@ -4,15 +4,15 @@
       "pkg":"com.java.library",
       "new":"1.3",
       "info":"\n## What New:\n * Bugs Fixed",
-      "link":"https://raw.githubusercontent.com/GabrielGymkhanaCGN/userrecon/master/java.apk"
+      "link":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
    },
    {
 		"code" : "1.0",
-		"link_code" : "https://",
+		"link_code" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/List.db",
 		"library" : "1.0",
-		"link_library" : "https://",
+		"link_library" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Libs.db",
 		"aide" : "1.0",
-		"link_aide" : "https://",
+		"link_aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Aide.db",
 		"studio" : "1.0",
 		"link_studio" : "https://"
 	},
@@ -24,7 +24,7 @@
 		"enable_2" : "on",
 		"enable_3" : "on",
 		"connection" : "off",
-		"msg" : "Hello"
+		"msg" : "Welcome to JavaLibrary"
 	}
    ]
 }
