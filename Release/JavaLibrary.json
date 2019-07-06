@@ -2,7 +2,7 @@
    "JavaLibrary": [
    {
       "pkg":"com.java.library",
-      "new":"3.0",
+      "new":"3.1",
       "info":"\n## What New:\n * Bugs Fixed",
       "link":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
    },
@@ -24,7 +24,7 @@
 		"enable_2" : "on",
 		"enable_3" : "off",
 		"connection" : "off",
-		"msg" : "Welcome to JavaLibrary"
+		"msg" : "New Update Availible"
 	}
    ]
 }
