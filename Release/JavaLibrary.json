@@ -17,7 +17,7 @@
 		"link_studio" : "https://"
 	},
 	{
-		"admob" : "off",
+		"admob" : "on",
 		"offline" : "off",
 		"enable_0" : "on",
 		"enable_1" : "on",
