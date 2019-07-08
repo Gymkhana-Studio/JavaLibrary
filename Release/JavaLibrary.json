@@ -11,10 +11,10 @@
 		"link_code" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/List.db",
 		"library" : "1.1",
 		"link_library" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Libs.db",
-		"aide" : "1.1",
+		"aide" : "1.2",
 		"link_aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Aide.db",
-		"studio" : "1.0",
-		"link_studio" : "https://"
+		"studio" : "1.1",
+		"link_studio" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Studio.db"
 	},
 	{
 		"admob" : "on",
@@ -22,9 +22,9 @@
 		"enable_0" : "on",
 		"enable_1" : "on",
 		"enable_2" : "on",
-		"enable_3" : "off",
+		"enable_3" : "on",
 		"connection" : "off",
-		"msg" : "New Update Availible"
+		"msg" : "New Update Availible For Java Example\nAnd\nMenu android Studio Added"
 	}
    ]
 }
