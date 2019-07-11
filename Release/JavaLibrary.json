@@ -19,14 +19,14 @@
 	{
 		"admob" : "on",
                 "admob2" : "off",
-                "admob_interstitial" : "on",
+                "admob_interstitial" : "off",
                 "admob_video" : "on",
                 "menu" : "2",
 		"offline" : "off",
 		"enable_0" : "on",
 		"enable_1" : "on",
 		"enable_2" : "on",
-		"enable_3" : "off",
+		"enable_3" : "on",
 		"connection" : "off",
 		"msg" : "New Update Availible For Java Example\nAnd\nMenu android Studio Added"
 	}
