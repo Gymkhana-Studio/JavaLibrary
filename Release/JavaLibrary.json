@@ -17,7 +17,7 @@
 		"link_studio" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Studio.db"
 	},
 	{
-		"admob" : "off",
+		"admob" : "on",
                 "admob2" : "off",
                 "admob_interstitial" : "off",
                 "admob_video" : "on",
