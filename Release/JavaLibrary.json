@@ -2,7 +2,7 @@
    "JavaLibrary": [
    {
       "pkg":"com.java.library",
-      "new":"3.1",
+      "new":"3.2",
       "info":"\n## What New:\n * Bugs Fixed",
       "link":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
    },
@@ -28,7 +28,7 @@
 		"enable_2" : "on",
 		"enable_3" : "on",
 		"connection" : "off",
-		"msg" : "New Update Availible For Java Example\nAnd\nMenu android Studio Added"
+		"msg" : "New Update Availible!"
 	}
    ]
 }
