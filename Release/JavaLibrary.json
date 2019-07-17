@@ -20,7 +20,7 @@
 		"admob" : "on",
                 "admob2" : "off",
                 "admob_interstitial" : "off",
-                "admob_video" : "off",
+                "admob_video" : "on",
                 "menu" : "2",
 		"offline" : "off",
 		"enable_0" : "on",
