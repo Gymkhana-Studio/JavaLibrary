@@ -18,7 +18,7 @@
 	},
 	{
 		"admob" : "on",
-                "admob2" : "off",
+                "admob2" : "on",
                 "admob_interstitial" : "on",
                 "admob_video" : "on",
                 "menu" : "2",
