@@ -1,9 +1,10 @@
 {
-   "Updater": [
-   {
-      "new_version":"3.5",
-      "info_updater":"\n## What New:\n * Bugs Fixed",
-      "url_package":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
-   }
-   ]
+  "latestVersion": "1.2.2",
+  "latestVersionCode": 10,
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
