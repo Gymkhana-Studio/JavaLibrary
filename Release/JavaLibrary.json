@@ -2,8 +2,8 @@
    "JavaLibrary": [
    {
       "pkg":"com.java.library",
-      "new":"3.5",
-      "info":"\n## What New:\n * Bugs Fixed",
+      "new":"3.6",
+      "info":"\nUPDATE 3.6:\n 		* Update SDK 28\n 		* Use Material Template\n 		* Rebuild Module\n 		* Integrate With AppCompatActivity\n 		* Remove Old Menu\n 		* Using Navigation Drawer\n 		* Using Secured AES\n 		* Integrate With Firebase\n 		* Multi Page Spliter\n 		* Fixed Database\n 		* Fixed Adapter\n 		* And More..",
       "link":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
    },
    {
