@@ -13,7 +13,7 @@
 		"link_library" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Libs.db",
 		"aide" : "1.4",
 		"link_aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Aide.db",
-		"studio" : "1.4",
+		"studio" : "1.5",
 		"link_studio" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Studio.db"
 	},
 	{
