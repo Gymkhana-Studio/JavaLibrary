@@ -2,18 +2,18 @@
    "JavaLibrary": [
    {
       "pkg":"com.java.library",
-      "new":"3.6",
+      "new":"3.7-Beta",
       "info":"\nUPDATE 3.6:\n 		* Update SDK 28\n 		* Use Material Template\n 		* Rebuild Module\n 		* Integrate With AppCompatActivity\n 		* Remove Old Menu\n 		* Using Navigation Drawer\n 		* Using Secured AES\n 		* Integrate With Firebase\n 		* Multi Page Spliter\n 		* Fixed Database\n 		* Fixed Adapter\n 		* And More..",
       "link":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
    },
    {
-		"code" : "1.4",
+		"code" : "1.6",
 		"link_code" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/List.db",
-		"library" : "1.4",
+		"library" : "1.6",
 		"link_library" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Libs.db",
-		"aide" : "1.4",
+		"aide" : "1.6",
 		"link_aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Aide.db",
-		"studio" : "1.5",
+		"studio" : "1.6",
 		"link_studio" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Studio.db"
 	},
 	{
